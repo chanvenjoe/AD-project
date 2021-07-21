@@ -1,0 +1,6 @@
+1.Dule motor monitor
+2.E-brake
+3.Low thermal
+4.Brush less? 
+5.PID current control
+6.
