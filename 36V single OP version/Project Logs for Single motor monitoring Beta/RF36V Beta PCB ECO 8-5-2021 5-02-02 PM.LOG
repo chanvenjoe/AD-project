@@ -1,0 +1,26 @@
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q6
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q7
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q7 NewDesignator=Q4
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R20
+Change Component Designator: OldDesignator=R19 NewDesignator=R21
+Change Component Designator: OldDesignator=R20 NewDesignator=R22
+Change Component Designator: OldDesignator=R21 NewDesignator=R23
+Change Component Designator: OldDesignator=R22 NewDesignator=R15
+Change Component Designator: OldDesignator=R23 NewDesignator=R18
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=U5 NewDesignator=U2
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetQ4_1
+Change Net Name : Old Net Name=NetQ4_1 New Net Name=NetQ6_1
+Change Net Name : Old Net Name=NetQ5_1 New Net Name=NetQ7_1
+Change Net Name : Old Net Name=NetR15_1 New Net Name=NetR16_1
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR17_1
+Change Net Name : Old Net Name=NetR18_1 New Net Name=NetR20_1
+Added Room: Name=Single motor monitoring Beta
