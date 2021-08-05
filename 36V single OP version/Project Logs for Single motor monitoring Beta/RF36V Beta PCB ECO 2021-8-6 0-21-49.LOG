@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=R19-1
+Removed Pin From Net: NetName=NetC12_1 Pin=R19-2
+Removed Member From Class: ClassName=Single motor monitoring Beta Member=R19
+Added Room: Name=Single motor monitoring Beta

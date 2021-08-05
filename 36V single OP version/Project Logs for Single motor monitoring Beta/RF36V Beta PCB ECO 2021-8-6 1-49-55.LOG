@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=K1 Old Footprint=RELAY HFD23/012-1ZS New Footprint=RELAY SLB4119
+Change Component Footprint: Designator=K2 Old Footprint=RELAY HFD23/012-1ZS New Footprint=RELAY SLB4119
+Change Component Comment : Designator=K1 Old Comment=RELAY HFD23/012-1ZS New Comment=SLB4119
+Change Component Comment : Designator=K2 Old Comment=RELAY HFD23/012-1ZS New Comment=SLB4119
+Change component parameters: Designator = "K1" ("K1"); Footprint = "RELAY HFD23/012-1ZS"; UniqueID = "\OWOSOYEZ" ("\OWOSOYEZ")
+Change component parameters: Designator = "K2" ("K2"); Footprint = "RELAY HFD23/012-1ZS"; UniqueID = "\FFZPDZSE" ("\FFZPDZSE")
+Added Pin To Net: NetName=NetK1_5 Pin=K1-5
+Added Pin To Net: NetName=NetK1_5 Pin=K1-7
+Added Net: Name=NetK1_5
+Added Pin To Net: NetName=NetK2_5 Pin=K2-5
+Added Pin To Net: NetName=NetK2_5 Pin=K2-7
+Added Net: Name=NetK2_5
+Added Room: Name=Single motor monitoring Beta

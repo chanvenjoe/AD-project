@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SCL Pin=J4-2
+Removed Pin From Net: NetName=RST Pin=J4-3
+Removed Pin From Net: NetName=SDA Pin=J4-4
+Added Pin To Net: NetName=SDA Pin=J4-2
+Added Pin To Net: NetName=SCL Pin=J4-3
+Added Pin To Net: NetName=RST Pin=J4-4
+Added Room: Name=Single motor monitoring Beta
