@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=F Pin=D4-1
+Added Pin To Net: NetName=B Pin=D5-1
+Added Pin To Net: NetName=F Pin=NC1-1
+Added Pin To Net: NetName=B Pin=NC1-2
+Added Room: Name=Single motor monitoring Beta

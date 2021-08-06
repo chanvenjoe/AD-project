@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Added Component: Designator=C13(CAP_Radial_D13L25P5.0)
+Add component (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "佳维诚"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = "470uF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T552471464020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = "10020154"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = "惠州市佳维诚电子有限公司"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_Bat Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Member To Class: ClassName=Single motor monitoring Beta Member=Component C13 PVE599570-4710
+Added Room: Name=Single motor monitoring Beta
