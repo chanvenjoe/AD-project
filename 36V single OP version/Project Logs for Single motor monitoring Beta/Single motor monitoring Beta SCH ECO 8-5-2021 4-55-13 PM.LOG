@@ -1,4 +1,0 @@
-Change Component Designator: OldDesignator=U5 NewDesignator=*1
-Change Net Color : Net Name= 15V Old Net Color=Default New Net Color=RGB(17, 56, 35)
-Change Net Color : Net Name= V_Bat Old Net Color=Default New Net Color=RGB(238, 14, 34)
-Change Net Color : Net Name= VDD Old Net Color=Default New Net Color=RGB(0, 98, 129)

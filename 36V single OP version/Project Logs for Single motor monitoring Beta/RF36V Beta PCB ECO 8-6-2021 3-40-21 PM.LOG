@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=V_Bat Pin=s-p
+Change Component Designator: OldDesignator=s NewDesignator=P1
+Added Component: Designator=J2(CONN 6P PH=2.5mm RA XHB-6AW-KL)
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "Nathan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "27-Sep-2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "½ð¼Ñµç×Ó"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "XHB-6AW-KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T690300121600"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=Hall Pin=J2-2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=H/L/BRK Pin=J2-5
+Added Pin To Net: NetName=VDD Pin=J2-6
+Added Member To Class: ClassName=Single motor monitoring Beta Member=Component J2 T690300121600
+Added Member To Class: ClassName=Single motor monitoring Beta Member=Component P1 CJP012009-0050
+Added Room: Name=Single motor monitoring Beta

@@ -1,4 +1,0 @@
-Change Component Designator: OldDesignator=*1 NewDesignator=U5
-Change Net Name : Old Net Name=Net*1_0 New Net Name=NetC4_2
-Change Net Color : Old Net Color=RGB(0, 0, 180) New Net Color=Default
-Added Room: Name=Single motor monitoring Beta

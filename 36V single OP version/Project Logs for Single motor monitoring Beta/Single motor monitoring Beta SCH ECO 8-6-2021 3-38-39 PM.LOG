@@ -1,0 +1,6 @@
+Remove Pin=J2-2 From Net=Hall
+Remove Pin=J2-5 From Net=H/L/BRK
+Change Component Designator: OldDesignator=P1 NewDesignator=s
+Change Net Color : Net Name= 15V Old Net Color=RGB(17, 56, 35) New Net Color=RGB(233, 236, 0)
+Change Net Color : Net Name= GND Old Net Color=Default New Net Color=RGB(0, 163, 110)
+Change Net Color : Net Name= V_Bat Old Net Color=RGB(238, 14, 34) New Net Color=RGB(197, 0, 142)

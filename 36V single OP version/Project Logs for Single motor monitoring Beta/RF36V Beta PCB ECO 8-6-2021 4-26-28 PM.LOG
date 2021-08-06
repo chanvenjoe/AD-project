@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=V_Bat Pin=P1-p
+Added Pin To Net: NetName=NetK1_6 Pin=K1-5
+Added Pin To Net: NetName=NetK1_6 Pin=K1-7
+Added Pin To Net: NetName=NetC8_1 Pin=K2-5
+Added Pin To Net: NetName=NetC8_1 Pin=K2-7
+Change Net Name : Old Net Name=NetK1_6 New Net Name=NetK1_5
+Added Room: Name=Single motor monitoring Beta

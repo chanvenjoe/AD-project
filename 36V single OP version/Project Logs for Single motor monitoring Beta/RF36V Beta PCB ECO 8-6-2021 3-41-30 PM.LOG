@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=V_Bat Pin=s-p
+Change Component Designator: OldDesignator=s NewDesignator=P1
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Member To Class: ClassName=Single motor monitoring Beta Member=Component J2 T690300121600
+Added Member To Class: ClassName=Single motor monitoring Beta Member=Component P1 CJP012009-0050
+Added Room: Name=Single motor monitoring Beta

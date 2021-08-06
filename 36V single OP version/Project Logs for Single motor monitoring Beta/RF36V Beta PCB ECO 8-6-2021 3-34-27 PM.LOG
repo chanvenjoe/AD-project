@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=V_Bat Pin=s-p
+Change Component Designator: OldDesignator=s NewDesignator=P1
+Change component parameters: Designator = "C13" ("C13"); Footprint = "CAP_Radial_D13L25P5.0"; UniqueID = "\LPUYUIFW" ("\LPUYUIFW")
+Change component parameters (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "DIP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = "佳维诚"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Other"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PACKAGE"; Value = "470uF/50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = "T552471464020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1000uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Code"; Value = "10020154"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = "惠州市佳维诚电子有限公司"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change Net Color : Old Net Color=RGB(233, 236, 0) New Net Color=RGB(17, 56, 35)
+Change Net Color : Old Net Color=RGB(0, 163, 110) New Net Color=Default
+Change Net Color : Old Net Color=RGB(197, 0, 142) New Net Color=RGB(238, 14, 34)
+Added Room: Name=Single motor monitoring Beta
