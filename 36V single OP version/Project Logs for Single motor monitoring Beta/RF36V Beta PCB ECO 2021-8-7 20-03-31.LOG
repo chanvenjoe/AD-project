@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=-1
+Removed Pin From Net: NetName=V_Bat Pin=P1-
+Change Component Designator: OldDesignator= NewDesignator=P2
+Added Component: Designator=F?(FUSE HOLDER BXSJ-01-01)
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "GordonL@Deftronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "25-JAN-2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "ÒÚÉ½"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "50A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T690300023400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_Bat Pin=F?-2
+Added Pin To Net: NetName=V_Bat Pin=F?-2
+Added Pin To Net: NetName=NetK1_5 Pin=P2-1
+Added Pin To Net: NetName=NetC8_1 Pin=P2-2
+Change Net Color : Old Net Color=RGB(69, 42, 0) New Net Color=RGB(0, 163, 110)
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Net: Name=NetF?_1
+Added Member To Class: ClassName=Single motor monitoring Beta Member=Component F? CFC021001-1001
+Added Member To Class: ClassName=Single motor monitoring Beta Member=Component P2 CJPA12002-0010
+Added Room: Name=Single motor monitoring Beta
