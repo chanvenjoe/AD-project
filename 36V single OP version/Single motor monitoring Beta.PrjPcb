@@ -73,71 +73,125 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TUOTFYBC
 
+[Document3]
+DocumentPath=Gerber\CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document4]
+DocumentPath=Gerber\CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta.EXTREP
+DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta.REP
+DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta.RUL
+DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta-SquareHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Keep-out.gbr
+DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Legend_Bot.gbr
+DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta.REP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Legend_Top.gbr
+DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Mechanical_1.gbr
+DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Mechanical_4.gbr
+DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Pads_Bot.gbr
+DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Pads_Top.gbr
+DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Paste_Bot.gbr
+DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Paste_Top.gbr
+DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Mechanical_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Profile.gbr
+DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Mechanical_4.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
+DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument22]
 DocumentPath=Project Outputs for Single motor monitoring Beta\RF36V Beta_Soldermask_Top.gbr
 DItemRevisionGUID=
 
@@ -383,7 +437,23 @@ OutputName2=Drill Drawing/Guides
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=2.15|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration2_Name1=ForceUpdateSettings
+Configuration2_Item1=False
+Configuration2_Name2=OutputConfigurationParameter1
+Configuration2_Item2=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\Daddy CHOU\Desktop\Git project\AD-project\36V single OP version\RF36V Beta.PcbDoc
+Configuration2_Name3=OutputConfigurationParameter2
+Configuration2_Item3=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Drill Drawing For (Top Layer - Bottom Layer)|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\Daddy CHOU\Desktop\Git project\AD-project\36V single OP version\RF36V Beta.PcbDoc
+Configuration2_Name4=OutputConfigurationParameter3
+Configuration2_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=DrillDrawing|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Daddy CHOU\Desktop\Git project\AD-project\36V single OP version\RF36V Beta.PcbDoc
+Configuration2_Name5=OutputConfigurationParameter4
+Configuration2_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical4|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Daddy CHOU\Desktop\Git project\AD-project\36V single OP version\RF36V Beta.PcbDoc
+Configuration2_Name6=OutputConfigurationParameter5
+Configuration2_Item6=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=1|Mirror=False|Name=Drill Guide For (Top Layer - Bottom Layer)|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\Daddy CHOU\Desktop\Git project\AD-project\36V single OP version\RF36V Beta.PcbDoc
+Configuration2_Name7=OutputConfigurationParameter6
+Configuration2_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=DrillGuide|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\Daddy CHOU\Desktop\Git project\AD-project\36V single OP version\RF36V Beta.PcbDoc
+Configuration2_Name8=OutputConfigurationParameter7
+Configuration2_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical4|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\Daddy CHOU\Desktop\Git project\AD-project\36V single OP version\RF36V Beta.PcbDoc
 OutputType3=Board Stack Report
 OutputName3=Report Board Stack
 OutputDocumentPath3=

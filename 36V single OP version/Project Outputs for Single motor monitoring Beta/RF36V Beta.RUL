@@ -1,5 +1,0 @@
-DRC Rules Export File for PCB: C:\Users\Daddy CHOU\Desktop\Git project\AD-project\36V single OP version\RF36V Beta.PcbDoc
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
