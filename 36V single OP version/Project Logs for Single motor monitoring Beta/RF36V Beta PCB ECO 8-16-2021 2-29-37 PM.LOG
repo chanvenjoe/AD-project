@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=V_Bat Pin=P1-
+Change Component Footprint: Designator=P1 Old Footprint=AC INLET 2P DB8-6S1 New Footprint=Motor&Bat connector
+Added Pin To Net: NetName=V_Bat Pin=P1-1
+Added Member To Class: ClassName=Single motor monitoring Beta Member=Component K1 SLB4119
+Added Room: Name=Single motor monitoring Beta
