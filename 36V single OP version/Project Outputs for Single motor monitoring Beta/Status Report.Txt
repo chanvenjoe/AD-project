@@ -1,0 +1,26 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [Single motor monitoring Beta.PrjPcb]
+   Generated File[RF36V Beta_Copper_Signal_Top.gbr]
+   Generated File[RF36V Beta_Copper_Signal_Bot.gbr]
+   Generated File[RF36V Beta_Pads_Bot.gbr]
+   Generated File[RF36V Beta_Pads_Top.gbr]
+   Generated File[RF36V Beta_Legend_Bot.gbr]
+   Generated File[RF36V Beta_Soldermask_Bot.gbr]
+   Generated File[RF36V Beta_Paste_Bot.gbr]
+   Generated File[RF36V Beta_Legend_Top.gbr]
+   Generated File[RF36V Beta_Paste_Top.gbr]
+   Generated File[RF36V Beta_Soldermask_Top.gbr]
+   Generated File[RF36V Beta_Keep-out.gbr]
+   Generated File[RF36V Beta_Mechanical_4.gbr]
+   Generated File[RF36V Beta_Mechanical_1.gbr]
+   Generated File[RF36V Beta_Profile.gbr]
+   Generated File[RF36V Beta.RUL]
+   Generated File[RF36V Beta.EXTREP]
+   Generated File[RF36V Beta.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 0:50:19 On 2021/8/8

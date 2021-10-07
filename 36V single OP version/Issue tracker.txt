@@ -1,0 +1,23 @@
+1. Hall have paulse(high) in RF-36 not in 1702
+2.Add diode the gate for Cgs discharging
+3.LM358 positive feedback（wrong）
+4. Motor PIN connector
+5.Charging diode position
+6.Cap must be there or Motor will burn the DCDC 
+7.Transistor pull up/down resistor(or gate resistor) consideration
+8.Schenmatic  COMP should be 68pf
+9.Add resistor to each power port
+10.Gate resistor change to 4.7ohm
+
+
+Layout:
+1. Fuse
+2. Heatsink position
+3. Relay position
+4. Sampling resistor size
+5.Open window can't not open two wires
+6.Power and ground should have distance
+7. Mos Gate driver ground connection
+8.MCU ground connection
+9.The layout should be sorted by IC or components(as groups)
+10.7550 footprint
