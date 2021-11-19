@@ -1,23 +1,33 @@
 1. Hall have paulse(high) in RF-36 not in 1702
 2.Add diode the gate for Cgs discharging
-3.LM358 positive feedback（wrong）
+3.LM358 positive feedback（wrong�?
 4. Motor PIN connector
 5.Charging diode position
-6.Cap must be there or Motor will burn the DCDC 
+6.Cap must be there or Motor will burn the DCDC
 7.Transistor pull up/down resistor(or gate resistor) consideration
 8.Schenmatic  COMP should be 68pf
 9.Add resistor to each power port
 10.Gate resistor change to 4.7ohm
+11.Not positive feedback (OPA)
+12.OPA out put cap value is TBD
 
 
 Layout:
 1. Fuse
-2. Heatsink position
+2. Heatsink position ,heatsink's Pin is not correct
 3. Relay position
-4. Sampling resistor size
+4. Sampling resistor size The fuse footprint
 5.Open window can't not open two wires
 6.Power and ground should have distance
 7. Mos Gate driver ground connection
-8.MCU ground connection
-9.The layout should be sorted by IC or components(as groups)
-10.7550 footprint
+8.Ground is not completed, some are not connected
+9.Power grid is too long
+10.MCU ground connection
+11.The layout should be sorted by IC or components(as groups)
+12.7550 footprint
+13.The 7805 footprint?
+14.The heatsink position is kind of overlaped, and for better installation, the lower bridge should be opposite
+15.Remove dead copper
+
+Program:
+1. No dead time cause the up/low side MOS open at the same time

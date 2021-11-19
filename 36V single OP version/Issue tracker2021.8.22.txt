@@ -1,9 +1,0 @@
-1.Layout: Open window of MOSFET
-	Ground is not completed, some are not connected
-	Power grid is too long
-	The 7805 footprint?
-	The heatsink position is kind of overlaped, and for better installation, the lower bridge should be opposite
-	,heatsink's Pin is not correct
-	The fuse footprint
-	Relay is not can be install on the button side, considering top
-	
