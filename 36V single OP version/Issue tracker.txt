@@ -1,6 +1,6 @@
 1. Hall have paulse(high) in RF-36 not in 1702
 2.Add diode the gate for Cgs discharging
-3.LM358 positive feedbackï¼ˆwrongï¼?
+3.LM358 positive input
 4. Motor PIN connector
 5.Charging diode position
 6.Cap must be there or Motor will burn the DCDC
