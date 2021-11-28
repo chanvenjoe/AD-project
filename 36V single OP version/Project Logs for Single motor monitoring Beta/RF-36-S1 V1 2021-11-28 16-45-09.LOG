@@ -1,0 +1,17 @@
+Change Component Footprint: Designator=P1 Old Footprint=Motor&Bat connector New Footprint=Bat connector
+Change Component Footprint: Designator=P3 Old Footprint=Motor&Bat connector New Footprint=Motor connector
+Added Component: Designator=P2(Motor connector)
+Add component (AddParameter): Name = "Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "金明浩"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "DB8-6S1 N-Polar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T690300011500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = "10010007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = "深圳市金明浩电子科技有限公司"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=M2 Pin=P2-1
+Added Pin To Net: NetName=M2 Pin=P2-1
+Added Pin To Net: NetName=M1 Pin=P2-2
+Added Pin To Net: NetName=M1 Pin=P2-2
+Added Member To Class: ClassName=Single motor monitoring Beta Member=Component P2 CJP012009-0050
