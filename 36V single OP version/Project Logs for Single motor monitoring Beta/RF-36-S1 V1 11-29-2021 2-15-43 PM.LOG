@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=15V Pin=U2-2
+Removed Pin From Net: NetName=15V Pin=U2-4
+Added Pin To Net: NetName=NetC5_2 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Member To Class: ClassName=Single motor monitoring Beta Member=Component P3 CJP012009-0050

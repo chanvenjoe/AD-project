@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetC11_1 Pin=D4-2
+Removed Pin From Net: NetName=NetC11_2 Pin=R14-1
+Removed Pin From Net: NetName=NetC5_2 Pin=U2-4
+Removed Pin From Net: NetName=NetC11_2 Pin=U4-6
+Removed Pin From Net: NetName=NetC11_1 Pin=U4-8
+Change Component Footprint: Designator=C11 Old Footprint=CASE - D New Footprint=0603P
+Change Component Comment : Designator=C11 Old Comment=PBE099540-1010 New Comment=4.7uF
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CASE - D"; UniqueID = "\IVVPORXW" ("\IVVPORXW")
+Added Pin To Net: NetName=NetC11_2 Pin=D4-2
+Added Pin To Net: NetName=NetC11_1 Pin=R14-1
+Added Pin To Net: NetName=NetC11_1 Pin=U4-6
+Added Pin To Net: NetName=NetC11_2 Pin=U4-8

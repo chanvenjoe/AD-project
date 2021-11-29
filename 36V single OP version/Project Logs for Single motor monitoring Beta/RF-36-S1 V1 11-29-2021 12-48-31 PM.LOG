@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=U2-4
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Added Member To Class: ClassName=Single motor monitoring Beta Member=Component P2 CJP012009-0050
