@@ -1,12 +1,16 @@
 Board Information Report
 Filename     : C:\Users\kzhou\Desktop\RF projects\RF 36V motor controller\PCB-project\36V single OP version\RF-36-S1 V1.0.PcbDoc
-Date         : 11/30/2021
-Time         : 5:08:06 PM
+Date         : 12/1/2021
+Time         : 12:21:00 PM
 Time Elapsed : 00:00:00
 
 Routing Information
-    Routing completion, 76.77%
-    Connections, 155
-    Connections routed, 119
-    Connections remaining, 36
+    Routing completion, 97.40%
+    Connections, 154
+    Connections routed, 150
+    Connections remaining, 4
 count : 4
+
+Drill Pairs, Vias
+    Top Layer - Bottom Layer, 67
+count : 1

@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetC5_2 Pin=U2-4
+Added Component: Designator=R19(5W-22X10-H)
+Add component (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "Xingdacheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "RES 5W 5% 5.1 OHM W10D9.5L22H22 QHE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T710600010200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TOL"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = "10008495"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = "深圳市兴达诚电子有限公司"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=NetQ4_3 Pin=R19-2
+Added Pin To Net: NetName=MOS_DET Pin=U3-20
+Added Net: Name=MOS_DET
+Added Pin To Net: NetName=PLC Pin=U3-11
+Added Net: Name=PLC
+Added Pin To Net: NetName=V_DET Pin=U3-14
+Added Net: Name=V_DET
+Added Member To Class: ClassName=Single motor monitoring Beta Member=Component R19 QHE505000-5190
+Added Room: Name=Single motor monitoring Beta
