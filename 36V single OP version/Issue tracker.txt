@@ -31,3 +31,11 @@ Layout:
 
 Program:
 1. No dead time cause the up/low side MOS open at the same time
+
+
+
+
+V2 issue tracker
+1. The motor connector size is not right
+2.the footprint of diodes is too small DCDC, relay driver Mos discharge
+

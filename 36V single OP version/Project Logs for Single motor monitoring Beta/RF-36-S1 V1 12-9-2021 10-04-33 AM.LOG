@@ -1,0 +1,132 @@
+Removed Pin From Net: NetName=Err_IDC Pin=LED1-1
+Removed Pin From Net: NetName=NetLED1_2 Pin=LED1-2
+Removed Pin From Net: NetName=NetC5_2 Pin=U2-4
+Change Component Footprint: Designator=LED1 Old Footprint=LED 0603 JH-CW52E12SMP001 New Footprint=LED0805-Blue
+Change Component Footprint: Designator=D2 Old Footprint=SOD-323 New Footprint=SMB
+Change Component Footprint: Designator=D4 Old Footprint=SOD-323 New Footprint=SMB
+Change Component Footprint: Designator=D6 Old Footprint=SOD-323 New Footprint=SMB
+Change Component Footprint: Designator=D7 Old Footprint=SOD-323 New Footprint=SMB
+Change Component Footprint: Designator=D3 Old Footprint=SOD-523 New Footprint=SMB
+Change Component Footprint: Designator=D5 Old Footprint=SOD-523 New Footprint=SMB
+Change Component Comment : Designator=D3 Old Comment=1N4148WT New Comment=T571002930249
+Change Component Comment : Designator=D5 Old Comment=1N4148WT New Comment=T571002930249
+Change Component Comment : Designator=D2 Old Comment=42V 5A New Comment=T571002930249
+Change Component Comment : Designator=D4 Old Comment=42V 5A New Comment=T571002930249
+Change Component Comment : Designator=D6 Old Comment=42V 5A New Comment=T571002930249
+Change Component Comment : Designator=D7 Old Comment=42V 5A New Comment=T571002930249
+Change Component Comment : Designator=LED1 Old Comment=T575013160258 New Comment=T575011290263
+Change component parameters: Designator = "D2" ("D2"); Footprint = "SOD-323"; UniqueID = "\UUWDPMFV" ("\UUWDPMFV")
+Change component parameters (AddParameter): Name = "CREATE_NAME"; Value = "cherry"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREATE_TIME"; Value = "20190104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = "MCCSEMI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = "ER3AB-ER3MB(SMB)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = "T571002930249"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V~1000V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "SOD-523"; UniqueID = "\BRRXSQBS" ("\BRRXSQBS")
+Change component parameters (AddParameter): Name = "CREATE_NAME"; Value = "cherry"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREATE_TIME"; Value = "20190104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = "MCCSEMI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = "ER3AB-ER3MB(SMB)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = "T571002930249"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V~1000V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "SOD-323"; UniqueID = "\OOTKKKLT" ("\OOTKKKLT")
+Change component parameters (AddParameter): Name = "CREATE_NAME"; Value = "cherry"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREATE_TIME"; Value = "20190104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = "MCCSEMI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = "ER3AB-ER3MB(SMB)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = "T571002930249"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V~1000V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5" ("D5"); Footprint = "SOD-523"; UniqueID = "\IIRCDXGS" ("\IIRCDXGS")
+Change component parameters (AddParameter): Name = "CREATE_NAME"; Value = "cherry"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREATE_TIME"; Value = "20190104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = "MCCSEMI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = "ER3AB-ER3MB(SMB)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = "T571002930249"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V~1000V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6" ("D6"); Footprint = "SOD-323"; UniqueID = "\MOHKXYLA" ("\MOHKXYLA")
+Change component parameters (AddParameter): Name = "CREATE_NAME"; Value = "cherry"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREATE_TIME"; Value = "20190104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = "MCCSEMI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = "ER3AB-ER3MB(SMB)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = "T571002930249"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V~1000V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D7" ("D7"); Footprint = "SOD-323"; UniqueID = "\YYYRYHAP" ("\YYYRYHAP")
+Change component parameters (AddParameter): Name = "CREATE_NAME"; Value = "cherry"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREATE_TIME"; Value = "20190104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = "MCCSEMI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = "ER3AB-ER3MB(SMB)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = "T571002930249"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V~1000V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED1" ("LED1"); Footprint = "LED 0603 JH-CW52E12SMP001"; UniqueID = "\PTVBYLYR" ("\PTVBYLYR")
+Change component parameters (AddParameter): Name = "Color"; Value = "Ice Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREATE_NAME"; Value = "Nathan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREATE_TIME"; Value = "31-OCT-2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = "HONGBRIGHT (弘亮光電)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = "H-0805AW61B008-Z2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = "T575011290263"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R19(5W-22X10-H)
+Add component (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "Xingdacheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "RES 5W 5% 5.1 OHM W10D9.5L22H22 QHE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T710600010200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TOL"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = "10008495"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = "深圳市兴达诚电子有限公司"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-1
+Added Pin To Net: NetName=Err_IDC Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=NetQ4_3 Pin=R19-2
+Change Net Name : Old Net Name=NetLED1_2 New Net Name=NetLED1_1
+Added Member To Class: ClassName=Single motor monitoring Beta Member=Component R19 QHE505000-5190
