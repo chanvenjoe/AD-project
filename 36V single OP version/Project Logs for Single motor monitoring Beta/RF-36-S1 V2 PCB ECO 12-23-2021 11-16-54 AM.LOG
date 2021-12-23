@@ -1,0 +1,32 @@
+Change Component Footprint: Designator=D4 Old Footprint=SMB New Footprint=SOD-523
+Change Component Comment : Designator=D4 Old Comment=T571002930249 New Comment=1N4148WT
+Change component parameters: Designator = "D4" ("D4"); Footprint = "SMB"; UniqueID = "\THCNRJOD" ("\THCNRJOD")
+Change component parameters (AddParameter): Name = "CREATE_NAME"; Value = "Nathan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREATE_TIME"; Value = "23-Jun-2020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = "DIODES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = "1N4148WT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R19(5W-22X10-H)
+Add component (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "Xingdacheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "RES 5W 5% 5.1 OHM W10D9.5L22H22 QHE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T710600010200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TOL"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = "10008495"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = "深圳市兴达诚电子有限公司"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=NetQ4_3 Pin=R19-2
+Added Member To Class: ClassName=Single motor monitoring Beta Member=Component R19 QHE505000-5190
