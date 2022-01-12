@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=15V Pin=D4-1
+Removed Pin From Net: NetName=NetC11_2 Pin=D4-2
+Added Component: Designator=D4(SMB)
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "cherry"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "20190104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "MCCSEMI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "ER3AB-ER3MB(SMB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T571002930249"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V~1000V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=15V Pin=D4-1
+Added Pin To Net: NetName=NetC11_2 Pin=D4-2
