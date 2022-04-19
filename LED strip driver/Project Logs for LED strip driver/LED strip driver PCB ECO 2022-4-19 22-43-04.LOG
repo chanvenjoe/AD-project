@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=V_bat Pin=D1-2
+Removed Pin From Net: NetName=VCC Pin=J3-1
+Removed Pin From Net: NetName=V_bat Pin=J3-2
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Added Component: Designator=J2(CONN 2P PH=2.5mm B2B-XH-A)
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "金瑞康"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "HAA250A-2A-WHITE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T690300041200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = "10009989"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = "亿源电子有限公司"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=J2-1
+Added Pin To Net: NetName=V_bat Pin=J2-2
+Added Pin To Net: NetName=V_bat Pin=U2-5
+Change Net Name : Old Net Name=NetJ2_3 New Net Name=NetJ3_3
+Change Net Name : Old Net Name=NetJ2_4 New Net Name=NetJ3_4
+Change Net Name : Old Net Name=NetJ2_5 New Net Name=NetJ3_5
+Change Net Name : Old Net Name=NetJ2_6 New Net Name=NetJ3_6
+Change Net Name : Old Net Name=NetJ2_7 New Net Name=NetJ3_7
+Added Member To Class: ClassName=LED strip driver Member=Component C2 T542011037308
+Added Member To Class: ClassName=LED strip driver Member=Component CHRG1 LED1206R_23-21\R6C-AM1N2AY\2A
+Added Member To Class: ClassName=LED strip driver Member=Component J1 CCN250010-0504
+Added Member To Class: ClassName=LED strip driver Member=Component J3 CCN250000-0107
+Added Member To Class: ClassName=LED strip driver Member=Component J5 CCN250010-0504
+Added Member To Class: ClassName=LED strip driver Member=Component J7 T690300125300
+Added Member To Class: ClassName=LED strip driver Member=Component J8 CCN250000-0102
+Added Member To Class: ClassName=LED strip driver Member=Component J9 T690300112400
+Added Member To Class: ClassName=LED strip driver Member=Component MIC1 MIC
+Added Member To Class: ClassName=LED strip driver Member=Component MIC2 MIC
+Added Member To Class: ClassName=LED strip driver Member=Component R1 QCF167240-1000
+Added Member To Class: ClassName=LED strip driver Member=Component R2 QCF167240-1000
+Added Member To Class: ClassName=LED strip driver Member=Component R5 QCF167240-1000
+Added Member To Class: ClassName=LED strip driver Member=Component R8 QCF167240-1000
+Added Member To Class: ClassName=LED strip driver Member=Component R14 QCF167240-1000
+Added Member To Class: ClassName=LED strip driver Member=Component R15 QCF167240-1000
+Added Member To Class: ClassName=LED strip driver Member=Component Rprog1 QCF167240-1000
+Added Member To Class: ClassName=LED strip driver Member=Component STDBY1 LED1206R_23-21\R6C-AM1N2AY\2A

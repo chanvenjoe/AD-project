@@ -74,267 +74,91 @@ GenerateClassCluster=0
 DocumentUniqueId=JTUWIYFU
 
 [GeneratedDocument1]
-DocumentPath=LED strip driver-RectHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=PCB_Project_1\LED strip driver-RectHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument3]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver-RectHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=LED strip driver.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
+[GeneratedDocument2]
 DocumentPath=PCB_Project_1\LED strip driver.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument6]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=LED strip driver.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
+[GeneratedDocument3]
 DocumentPath=PCB_Project_1\LED strip driver.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument9]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=LED strip driver.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
+[GeneratedDocument4]
 DocumentPath=PCB_Project_1\LED strip driver.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument12]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=LED strip driver.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument14]
+[GeneratedDocument5]
 DocumentPath=PCB_Project_1\LED strip driver.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument15]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=LED strip driver.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
+[GeneratedDocument6]
 DocumentPath=PCB_Project_1\LED strip driver.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument18]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=LED strip driver.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument20]
+[GeneratedDocument7]
 DocumentPath=PCB_Project_1\LED strip driver.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument21]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=LED strip driver.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument23]
+[GeneratedDocument8]
 DocumentPath=PCB_Project_1\LED strip driver.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument24]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=LED strip driver.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument26]
+[GeneratedDocument9]
 DocumentPath=PCB_Project_1\LED strip driver.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument27]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=LED strip driver.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument29]
+[GeneratedDocument10]
 DocumentPath=PCB_Project_1\LED strip driver.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument30]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=LED strip driver.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument32]
+[GeneratedDocument11]
 DocumentPath=PCB_Project_1\LED strip driver.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument33]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=LED strip driver.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument35]
+[GeneratedDocument12]
 DocumentPath=PCB_Project_1\LED strip driver.GM4
 DItemRevisionGUID=
 
-[GeneratedDocument36]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=LED strip driver.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument38]
+[GeneratedDocument13]
 DocumentPath=PCB_Project_1\LED strip driver.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument39]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=LED strip driver.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument41]
+[GeneratedDocument14]
 DocumentPath=PCB_Project_1\LED strip driver.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument42]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=LED strip driver.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument44]
+[GeneratedDocument15]
 DocumentPath=PCB_Project_1\LED strip driver.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument45]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=LED strip driver.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument47]
+[GeneratedDocument16]
 DocumentPath=PCB_Project_1\LED strip driver.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument48]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=LED strip driver.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument50]
+[GeneratedDocument17]
 DocumentPath=PCB_Project_1\LED strip driver.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument51]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=LED strip driver.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument53]
+[GeneratedDocument18]
 DocumentPath=PCB_Project_1\LED strip driver.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument54]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=LED strip driver.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument56]
+[GeneratedDocument19]
 DocumentPath=PCB_Project_1\LED strip driver.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument57]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument58]
-DocumentPath=LED strip driver.REP
-DItemRevisionGUID=
-
-[GeneratedDocument59]
+[GeneratedDocument20]
 DocumentPath=PCB_Project_1\LED strip driver.REP
 DItemRevisionGUID=
 
-[GeneratedDocument60]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver.REP
-DItemRevisionGUID=
-
-[GeneratedDocument61]
-DocumentPath=LED strip driver.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument62]
+[GeneratedDocument21]
 DocumentPath=PCB_Project_1\LED strip driver.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument63]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument64]
-DocumentPath=LED strip driver.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument65]
+[GeneratedDocument22]
 DocumentPath=PCB_Project_1\LED strip driver.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument66]
-DocumentPath=PCB_Project_1\Project Outputs for LED strip driver\LED strip driver.TXT
 DItemRevisionGUID=
 
 [Configuration1]
