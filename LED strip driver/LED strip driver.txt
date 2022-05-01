@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\Daddy CHOU\Desktop\Git project\AD-project\LED strip driver\LED strip driver.PcbDoc
+Date         : 2022/5/1
+Time         : 15:39:12
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 82
+    Connections routed, 82
+    Connections remaining, 0
+count : 4
