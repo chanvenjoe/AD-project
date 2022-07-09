@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=D1 Old Footprint=SMC New Footprint=SMB
+Change Component Comment : Designator=D1 Old Comment=RCD100032-0010 New Comment=DIO STPS2200U
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SMC"; UniqueID = "\QTJZVDYU" ("\QTJZVDYU")
+Change component parameters (AddParameter): Name = "CREATE_NAME"; Value = "Nathan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREATE_TIME"; Value = "19-Jun-2020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = "STPS2200U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"

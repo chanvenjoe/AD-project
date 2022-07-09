@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=V_bat Pin=C2-1
+Removed Pin From Net: NetName=VCC Pin=J2-1
+Removed Pin From Net: NetName=V_bat Pin=J2-2
+Removed Pin From Net: NetName=V_bat Pin=J7-2
+Removed Pin From Net: NetName=GND Pin=J8-1
+Removed Pin From Net: NetName=V_bat Pin=J8-2
+Removed Pin From Net: NetName=VCC Pin=R1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=R1-2
+Removed Pin From Net: NetName=V_bat Pin=U2-5
+Removed Member From Class: ClassName=LED strip driver Member=J2
+Removed Member From Class: ClassName=LED strip driver Member=J8
+Removed Member From Class: ClassName=LED strip driver Member=R1
+Change component parameters: Designator = "R10" ("R10"); Footprint = "0402-RW"; UniqueID = "\QCYDNCZF" ("\QCYDNCZF")
+Change component parameters (AddParameter): Name = "CREATE_NAME"; Value = "TOM@Deftronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREATE_TIME"; Value = "05-Jun-2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = "T501100001129"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1(SMC)
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "PANJIT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "SK32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T572005260610"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = "10020294"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = "惠州市涛绮科技有限公司"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "20V"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT23-132-RW)
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "Nathan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "17-Nov-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "VISHAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "SI2301CDS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=NetC1_1 Pin=D1-1
+Added Pin To Net: NetName=V_bat Pin=D1-2
+Added Pin To Net: NetName=VCC Pin=J7-2
+Added Pin To Net: NetName=NetC1_1 Pin=Q1-1
+Added Pin To Net: NetName=V_bat Pin=Q1-2
+Added Pin To Net: NetName=VCC Pin=Q1-3
+Added Pin To Net: NetName=VCC Pin=U2-5
+Change Net Name : Old Net Name=NetC1_1 New Net Name=VCC
+Change Net Name : Old Net Name=V_bat New Net Name=V_O
+Change Net Name : Old Net Name=VCC New Net Name=V_bat
+Added Member To Class: ClassName=LED strip driver Member=Component D1 RCD100032-0010
+Added Member To Class: ClassName=LED strip driver Member=Component Q1 SI2301CDS
