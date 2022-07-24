@@ -1,0 +1,1 @@
+AutoHotkey.exe dfu_over_hid_command.ahk && sleep.exe 2 && HidDfuCmd.exe upgrade 0x05a7 0xa211 0 0 Bullseye_7.1.0_stack_plus_app.dfu

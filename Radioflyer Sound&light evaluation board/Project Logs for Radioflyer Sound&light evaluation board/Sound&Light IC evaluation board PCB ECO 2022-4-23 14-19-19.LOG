@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=NC-1
+Removed Pin From Net: NetName=GND Pin=NC-2
+Removed Pin From Net: NetName=VCC Pin=R1-1
+Removed Pin From Net: NetName=NetC2_2 Pin=R1-2
+Change Component Footprint: Designator=NC Old Footprint=0201 New Footprint=0603-RW
+Change Component Footprint: Designator=R1 Old Footprint=0201 New Footprint=0603-RW
+Change Component Comment : Designator=NC Old Comment=T5024421083A9 New Comment=T502294202399
+Change Component Comment : Designator=R1 Old Comment=T5024421083A9 New Comment=T502294202399
+Change component parameters: Designator = "NC" ("NC"); Footprint = "0201"; UniqueID = "\YGOQFIFY" ("\YGOQFIFY")
+Change component parameters (AddParameter): Name = "CREATE_NAME"; Value = "Tom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREATE_TIME"; Value = "14-Sep-2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = "WALSIN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = "WR06X2942FTL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PACKAGE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = "T502294202399"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOL"; Value = "+-0.1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "9.1K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "0201"; UniqueID = "\XYYWMKEV" ("\XYYWMKEV")
+Change component parameters (AddParameter): Name = "CREATE_NAME"; Value = "Tom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREATE_TIME"; Value = "14-Sep-2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = "WALSIN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = "WR06X2942FTL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PACKAGE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = "T502294202399"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOL"; Value = "+-0.1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "9.1K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=NC-1
+Added Pin To Net: NetName=NetC2_2 Pin=NC-2
+Added Pin To Net: NetName=NetC2_2 Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=R1-2

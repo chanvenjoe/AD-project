@@ -1,0 +1,206 @@
+ok
+- - ok
+- - ok
+- - ok
+- - ok
+- - ok
+- - ok
+- - ok
+- - ok
+- - ok
+- - ok
+- - ok
+- - ok
+- - ok
+- - ok
+- - ok
+- - driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      show
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         150    3        0
+fav2           1         150    3        0
+fav3           2         150    3        0
+fav4           3         100    3        0
+fav5           4         140    3        0
+inp1           5         150    3        0
+inp2           6         150    3        0
+inp3           7         140    3        0
+inp4           8         130    3        0
+inp5           9         150    3        0
+prev           10        200    3        0
+next           11        250    3        0
+favorites      12        220    3        0
+sources        13        240    3        0
+play/pause     14        125    3        0
+proximity      15        14     10       7
+ok
+- - driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      show
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         150    3        369
+fav2           1         150    3        422
+fav3           2         150    3        540
+fav4           3         100    3        622
+fav5           4         140    3        666
+inp1           5         150    3        393
+inp2           6         150    3        448
+inp3           7         140    3        217
+inp4           8         130    3        659
+inp5           9         150    3        361
+prev           10        200    3        375
+next           11        250    3        473
+favorites      12        220    3        448
+sources        13        240    3        420
+play/pause     14        125    3        311
+proximity      15        14     10       498
+ok
+- - driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      show
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         150    3        0
+fav2           1         150    3        0
+fav3           2         150    3        0
+fav4           3         100    3        0
+fav5           4         140    3        0
+inp1           5         150    3        0
+inp2           6         150    3        0
+inp3           7         140    3        0
+inp4           8         130    3        0
+inp5           9         150    3        0
+prev           10        200    3        0
+next           11        250    3        0
+favorites      12        220    3        0
+sources        13        240    3        0
+play/pause     14        125    3        0
+proximity      15        14     10       7
+ok
+- - driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      show
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         150    3        370
+fav2           1         150    3        392
+fav3           2         150    3        511
+fav4           3         100    3        622
+fav5           4         140    3        666
+inp1           5         150    3        416
+inp2           6         150    3        420
+inp3           7         140    3        215
+inp4           8         130    3        658
+inp5           9         150    3        365
+prev           10        200    3        356
+next           11        250    3        470
+favorites      12        220    3        458
+sources        13        240    3        445
+play/pause     14        125    3        290
+proximity      15        14     10       607
+ok
+- - driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      show
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         150    3        0
+fav2           1         150    3        0
+fav3           2         150    3        0
+fav4           3         100    3        0
+fav5           4         140    3        0
+inp1           5         150    3        0
+inp2           6         150    3        0
+inp3           7         140    3        0
+inp4           8         130    3        0
+inp5           9         150    3        0
+prev           10        200    3        0
+next           11        250    3        0
+favorites      12        220    3        0
+sources        13        240    3        0
+play/pause     14        125    3        0
+proximity      15        14     10       5
+ok
+- - driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      show
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         150    3        368
+fav2           1         150    3        427
+fav3           2         150    3        550
+fav4           3         100    3        622
+fav5           4         140    3        719
+inp1           5         150    3        365
+inp2           6         150    3        433
+inp3           7         140    3        216
+inp4           8         130    3        659
+inp5           9         150    3        376
+prev           10        200    3        343
+next           11        250    3        473
+favorites      12        220    3        423
+sources        13        240    3        387
+play/pause     14        125    3        314
+proximity      15        14     10       582
+ok
+- - driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      show
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         150    3        0
+fav2           1         150    3        0
+fav3           2         150    3        0
+fav4           3         100    3        0
+fav5           4         140    3        0
+inp1           5         150    3        0
+inp2           6         150    3        0
+inp3           7         140    3        0
+inp4           8         130    3        0
+inp5           9         150    3        0
+prev           10        200    3        0
+next           11        250    3        0
+favorites      12        220    3        0
+sources        13        240    3        0
+play/pause     14        125    3        0
+proximity      15        14     10       3
+ok
+- - 

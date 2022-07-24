@@ -1,0 +1,4 @@
+# Partition Table extracted from flash
+
+0, 1700K, RS, (none)
+1, 300K, RO, ptn1.xuv

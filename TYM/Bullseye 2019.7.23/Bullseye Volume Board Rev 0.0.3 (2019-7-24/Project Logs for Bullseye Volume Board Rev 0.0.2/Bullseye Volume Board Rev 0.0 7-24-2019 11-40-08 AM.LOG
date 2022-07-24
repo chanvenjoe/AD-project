@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=VR1-0
+Removed Pin From Net: NetName=GND Pin=VR1-0
+Removed Pin From Net: NetName=GND Pin=VR2-0
+Removed Pin From Net: NetName=GND Pin=VR2-0
+Removed Pin From Net: NetName=GND Pin=VR3-0
+Removed Pin From Net: NetName=GND Pin=VR3-0
+Added Component: Designator=J?(CONN FFC 22P PH=0.5mm SMT RA 0.5S-1X-22PWT-5.4R)
+Change Class Name : Old Net Name=Bullseye Volume Board Rev 0.0.1 New Net Name=Bullseye Volume Board Rev 0.0.2
+Added Member To Class: ClassName=Bullseye Volume Board Rev 0.0.2 Member=Component J? T690300139200
+Added Member To Class: ClassName=Bullseye Volume Board Rev 0.0.2 Member=Component JD1 T690300109300
+Added Member To Class: ClassName=Bullseye Volume Board Rev 0.0.2 Member=Component Q2 RCM027002-1001

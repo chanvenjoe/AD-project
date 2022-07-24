@@ -1,0 +1,22 @@
+Net Status Report
+Filename     : I:\TYM\TMY EE file\Bullseye 2019.7.23\5v BOOST0.0.2\+-15V.PcbDoc
+Date         : 2019/11/23
+Time         : 12:39:54
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +15V, Signal Layers Only, 0mm
+    +5V, Signal Layers Only, 0mm
+    -15V, Signal Layers Only, 0mm
+    GND, Signal Layers Only, 0mm
+    NetC15_1, Signal Layers Only, 12.6391mm
+    NetC18_1, Signal Layers Only, 0mm
+    NetC1_1, Signal Layers Only, 0mm
+    NetC6_1, Signal Layers Only, 0mm
+    NetC6_2, Signal Layers Only, 0mm
+    NetC8_1, Signal Layers Only, 0mm
+    NetC8_2, Signal Layers Only, 0mm
+    NetD3_1, Signal Layers Only, 0mm
+    NetR4_1, Signal Layers Only, 0mm
+    NetR7_2, Signal Layers Only, 0mm
+count : 14

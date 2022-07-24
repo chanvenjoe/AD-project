@@ -1,0 +1,2886 @@
+mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        11
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        7
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        7
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        8
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        5
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        3
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        8
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        7
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        9
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        9
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        9
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        6
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        8
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        11
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        7
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        7
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        7
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        5
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        7
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        6
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        6
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        6
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        10
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        4
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        4
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        5
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        4
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        5
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        3
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        4
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        5
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        6
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        4
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        6
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        8
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        10
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        7
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        8
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        5
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        5
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        3
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        0
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        8
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        5
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        3
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        8
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        0
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        3
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        5
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        6
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        7
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        6
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        6
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        3
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        10
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        6
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        7
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        5
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        10
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        8
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        10
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        8
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        8
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        3
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        7
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        8
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        5
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        8
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        8
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        4
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        3
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        5
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        0
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        6
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        11
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        7
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        6
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        6
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        4
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        6
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        12
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        10
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        8
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        4
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        5
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        5
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        5
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        9
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        6
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        5
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        7
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        7
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        8
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        4
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        3
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        3
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        4
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        5
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        6
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        3
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        3
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        3
+ok
+- mfg touch
+driver    up
+reset     de-asserted
+iic       ok
+MTU       63 bytes
+devtype   4
+mode      hide
+intpt     0000   ''
+status    0000   ''
+
+Name           ScanCode  Thresh Debounce Diffcount
+fav1           0         65535  255      -1
+fav2           1         65535  255      -1
+fav3           2         65535  255      -1
+fav4           3         65535  255      -1
+fav5           4         65535  255      -1
+inp1           5         65535  255      -1
+inp2           6         65535  255      -1
+inp3           7         65535  255      -1
+inp4           8         65535  255      -1
+inp5           9         65535  255      -1
+prev           10        65535  255      -1
+next           11        65535  255      -1
+favorites      12        65535  255      -1
+sources        13        65535  255      -1
+play/pause     14        65535  255      -1
+proximity      15        15     8        5
+ok
+- 
+

@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--VituixCAD PROJECT FILE-->
+<SPEAKER>
+  <Description></Description>
+  <ReferenceAngle>0</ReferenceAngle>
+  <PeakNotchAna>False</PeakNotchAna>
+  <BesselPhase>False</BesselPhase>
+  <DigitalBiquad>False</DigitalBiquad>
+  <SPLTarget>
+    <HzLow>50.0</HzLow>
+    <dBLow>85.0</dBLow>
+    <HzHigh>15000.0</HzHigh>
+    <dBHigh>85.0</dBHigh>
+  </SPLTarget>
+  <PowerTarget>
+    <HzLow>200.0</HzLow>
+    <dBLow>91.0</dBLow>
+    <HzHigh>12000.0</HzHigh>
+    <dBHigh>85.0</dBHigh>
+  </PowerTarget>
+  <WAY wi="0">
+    <DriverCount>1</DriverCount>
+    <DriverConn>0</DriverConn>
+    <Enabled>True</Enabled>
+    <CommonResponse>True</CommonResponse>
+    <Gain>1.000</Gain>
+    <Delay>0.0</Delay>
+    <OptimizeGain>False</OptimizeGain>
+    <OptimizeDelay>False</OptimizeDelay>
+    <Invert>False</Invert>
+    <Target>
+      <TypeHP>None</TypeHP>
+      <TypeLP>None</TypeLP>
+      <OrderHP>2</OrderHP>
+      <OrderLP>2</OrderLP>
+      <FreqHP>300.0</FreqHP>
+      <FreqLP>3000.0</FreqLP>
+      <SPL>85.0</SPL>
+    </Target>
+    <DRIVER di="0">
+      <Name></Name>
+      <LocationX>0.0</LocationX>
+      <LocationY>0.0</LocationY>
+      <LocationZ>0.0</LocationZ>
+      <RotationX>0</RotationX>
+      <RotationY>0</RotationY>
+      <ResponseScale>1.000</ResponseScale>
+      <ResponseDelay>0.0</ResponseDelay>
+      <ResponseInvert>False</ResponseInvert>
+      <ExtendedData>False</ExtendedData>
+      <ResponseFile></ResponseFile>
+      <ImpedanceFile>Z tweeter.txt</ImpedanceFile>
+      <ImpedanceScale>1.000</ImpedanceScale>
+      <RESPONSE ri="0">
+        <FileHeader>SPL tweeter.txt</FileHeader>
+        <Hor>0</Hor>
+        <Ver>0</Ver>
+      </RESPONSE>
+    </DRIVER>
+    <FILTER xi="0">
+      <FilterType>Passive R1+C1</FilterType>
+      <Shape></Shape>
+      <Order>0</Order>
+      <Connection>Series Com</Connection>
+      <Bypass>False</Bypass>
+      <TransferFunction></TransferFunction>
+      <PARAMETER pi="0">
+        <Name>R1</Name>
+        <Value>9.000</Value>
+        <Unit>ohm</Unit>
+        <Visible>True</Visible>
+        <Optimize>True</Optimize>
+      </PARAMETER>
+      <PARAMETER pi="2">
+        <Name>C1</Name>
+        <Value>3.300</Value>
+        <Unit>uF</Unit>
+        <Visible>True</Visible>
+        <Optimize>True</Optimize>
+      </PARAMETER>
+    </FILTER>
+    <FILTER xi="1">
+      <FilterType>Passive R1+L1</FilterType>
+      <Shape></Shape>
+      <Order>0</Order>
+      <Connection>Shunt Com</Connection>
+      <Bypass>False</Bypass>
+      <TransferFunction></TransferFunction>
+      <PARAMETER pi="0">
+        <Name>R1</Name>
+        <Value>0.300</Value>
+        <Unit>ohm</Unit>
+        <Visible>True</Visible>
+        <Optimize>True</Optimize>
+      </PARAMETER>
+      <PARAMETER pi="1">
+        <Name>L1</Name>
+        <Value>0.330</Value>
+        <Unit>mH</Unit>
+        <Visible>True</Visible>
+        <Optimize>True</Optimize>
+      </PARAMETER>
+    </FILTER>
+  </WAY>
+  <WAY wi="1">
+    <DriverCount>1</DriverCount>
+    <DriverConn>0</DriverConn>
+    <Enabled>True</Enabled>
+    <CommonResponse>True</CommonResponse>
+    <Gain>1.000</Gain>
+    <Delay>0.0</Delay>
+    <OptimizeGain>False</OptimizeGain>
+    <OptimizeDelay>False</OptimizeDelay>
+    <Invert>False</Invert>
+    <Target>
+      <TypeHP>None</TypeHP>
+      <TypeLP>None</TypeLP>
+      <OrderHP>2</OrderHP>
+      <OrderLP>2</OrderLP>
+      <FreqHP>300.0</FreqHP>
+      <FreqLP>3000.0</FreqLP>
+      <SPL>85.0</SPL>
+    </Target>
+    <DRIVER di="0">
+      <Name></Name>
+      <LocationX>0.0</LocationX>
+      <LocationY>0.0</LocationY>
+      <LocationZ>0.0</LocationZ>
+      <RotationX>0</RotationX>
+      <RotationY>0</RotationY>
+      <ResponseScale>1.000</ResponseScale>
+      <ResponseDelay>0.0</ResponseDelay>
+      <ResponseInvert>False</ResponseInvert>
+      <ExtendedData>False</ExtendedData>
+      <ResponseFile></ResponseFile>
+      <ImpedanceFile>Z woofer.txt</ImpedanceFile>
+      <ImpedanceScale>1.000</ImpedanceScale>
+      <RESPONSE ri="0">
+        <FileHeader>SPL woofer.txt</FileHeader>
+        <Hor>0</Hor>
+        <Ver>0</Ver>
+      </RESPONSE>
+    </DRIVER>
+    <FILTER xi="0">
+      <FilterType>Passive R1+L1</FilterType>
+      <Shape></Shape>
+      <Order>0</Order>
+      <Connection>Series Com</Connection>
+      <Bypass>False</Bypass>
+      <TransferFunction></TransferFunction>
+      <PARAMETER pi="0">
+        <Name>R1</Name>
+        <Value>0.500</Value>
+        <Unit>ohm</Unit>
+        <Visible>True</Visible>
+        <Optimize>True</Optimize>
+      </PARAMETER>
+      <PARAMETER pi="1">
+        <Name>L1</Name>
+        <Value>1.200</Value>
+        <Unit>mH</Unit>
+        <Visible>True</Visible>
+        <Optimize>True</Optimize>
+      </PARAMETER>
+    </FILTER>
+    <FILTER xi="1">
+      <FilterType>Passive C1</FilterType>
+      <Shape></Shape>
+      <Order>0</Order>
+      <Connection>Shunt Com</Connection>
+      <Bypass>False</Bypass>
+      <TransferFunction></TransferFunction>
+      <PARAMETER pi="2">
+        <Name>C1</Name>
+        <Value>0.100</Value>
+        <Unit>uF</Unit>
+        <Visible>True</Visible>
+        <Optimize>True</Optimize>
+      </PARAMETER>
+    </FILTER>
+  </WAY>
+  <WAY wi="2">
+    <DriverCount>1</DriverCount>
+    <DriverConn>0</DriverConn>
+    <Enabled>False</Enabled>
+    <CommonResponse>True</CommonResponse>
+    <Gain>1.000</Gain>
+    <Delay>0.0</Delay>
+    <OptimizeGain>False</OptimizeGain>
+    <OptimizeDelay>False</OptimizeDelay>
+    <Invert>False</Invert>
+    <Target>
+      <TypeHP>None</TypeHP>
+      <TypeLP>None</TypeLP>
+      <OrderHP>2</OrderHP>
+      <OrderLP>2</OrderLP>
+      <FreqHP>300.0</FreqHP>
+      <FreqLP>3000.0</FreqLP>
+      <SPL>85.0</SPL>
+    </Target>
+    <DRIVER di="0">
+      <Name></Name>
+      <LocationX>0.0</LocationX>
+      <LocationY>0.0</LocationY>
+      <LocationZ>0.0</LocationZ>
+      <RotationX>0</RotationX>
+      <RotationY>0</RotationY>
+      <ResponseScale>1.000</ResponseScale>
+      <ResponseDelay>0.0</ResponseDelay>
+      <ResponseInvert>False</ResponseInvert>
+      <ExtendedData>False</ExtendedData>
+      <ResponseFile></ResponseFile>
+      <ImpedanceFile></ImpedanceFile>
+      <ImpedanceScale>1.000</ImpedanceScale>
+    </DRIVER>
+  </WAY>
+  <WAY wi="3">
+    <DriverCount>1</DriverCount>
+    <DriverConn>0</DriverConn>
+    <Enabled>False</Enabled>
+    <CommonResponse>True</CommonResponse>
+    <Gain>1.000</Gain>
+    <Delay>0.0</Delay>
+    <OptimizeGain>False</OptimizeGain>
+    <OptimizeDelay>False</OptimizeDelay>
+    <Invert>False</Invert>
+    <Target>
+      <TypeHP>None</TypeHP>
+      <TypeLP>None</TypeLP>
+      <OrderHP>2</OrderHP>
+      <OrderLP>2</OrderLP>
+      <FreqHP>300.0</FreqHP>
+      <FreqLP>3000.0</FreqLP>
+      <SPL>85.0</SPL>
+    </Target>
+    <DRIVER di="0">
+      <Name></Name>
+      <LocationX>0.0</LocationX>
+      <LocationY>0.0</LocationY>
+      <LocationZ>0.0</LocationZ>
+      <RotationX>0</RotationX>
+      <RotationY>0</RotationY>
+      <ResponseScale>1.000</ResponseScale>
+      <ResponseDelay>0.0</ResponseDelay>
+      <ResponseInvert>False</ResponseInvert>
+      <ExtendedData>False</ExtendedData>
+      <ResponseFile></ResponseFile>
+      <ImpedanceFile></ImpedanceFile>
+      <ImpedanceScale>1.000</ImpedanceScale>
+    </DRIVER>
+  </WAY>
+  <WAY wi="4">
+    <DriverCount>1</DriverCount>
+    <DriverConn>0</DriverConn>
+    <Enabled>False</Enabled>
+    <CommonResponse>True</CommonResponse>
+    <Gain>1.000</Gain>
+    <Delay>0.0</Delay>
+    <OptimizeGain>False</OptimizeGain>
+    <OptimizeDelay>False</OptimizeDelay>
+    <Invert>False</Invert>
+    <Target>
+      <TypeHP>None</TypeHP>
+      <TypeLP>None</TypeLP>
+      <OrderHP>2</OrderHP>
+      <OrderLP>2</OrderLP>
+      <FreqHP>300.0</FreqHP>
+      <FreqLP>3000.0</FreqLP>
+      <SPL>85.0</SPL>
+    </Target>
+    <DRIVER di="0">
+      <Name></Name>
+      <LocationX>0.0</LocationX>
+      <LocationY>0.0</LocationY>
+      <LocationZ>0.0</LocationZ>
+      <RotationX>0</RotationX>
+      <RotationY>0</RotationY>
+      <ResponseScale>1.000</ResponseScale>
+      <ResponseDelay>0.0</ResponseDelay>
+      <ResponseInvert>False</ResponseInvert>
+      <ExtendedData>False</ExtendedData>
+      <ResponseFile></ResponseFile>
+      <ImpedanceFile></ImpedanceFile>
+      <ImpedanceScale>1.000</ImpedanceScale>
+    </DRIVER>
+  </WAY>
+  <WAY wi="5">
+    <DriverCount>1</DriverCount>
+    <DriverConn>0</DriverConn>
+    <Enabled>False</Enabled>
+    <CommonResponse>True</CommonResponse>
+    <Gain>1.000</Gain>
+    <Delay>0.0</Delay>
+    <OptimizeGain>False</OptimizeGain>
+    <OptimizeDelay>False</OptimizeDelay>
+    <Invert>False</Invert>
+    <Target>
+      <TypeHP>None</TypeHP>
+      <TypeLP>None</TypeLP>
+      <OrderHP>2</OrderHP>
+      <OrderLP>2</OrderLP>
+      <FreqHP>300.0</FreqHP>
+      <FreqLP>3000.0</FreqLP>
+      <SPL>85.0</SPL>
+    </Target>
+    <DRIVER di="0">
+      <Name></Name>
+      <LocationX>0.0</LocationX>
+      <LocationY>0.0</LocationY>
+      <LocationZ>0.0</LocationZ>
+      <RotationX>0</RotationX>
+      <RotationY>0</RotationY>
+      <ResponseScale>1.000</ResponseScale>
+      <ResponseDelay>0.0</ResponseDelay>
+      <ResponseInvert>False</ResponseInvert>
+      <ExtendedData>False</ExtendedData>
+      <ResponseFile></ResponseFile>
+      <ImpedanceFile></ImpedanceFile>
+      <ImpedanceScale>1.000</ImpedanceScale>
+    </DRIVER>
+  </WAY>
+</SPEAKER>

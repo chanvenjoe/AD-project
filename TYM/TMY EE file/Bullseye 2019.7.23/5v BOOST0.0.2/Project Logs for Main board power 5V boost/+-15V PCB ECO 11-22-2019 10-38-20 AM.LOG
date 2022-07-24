@@ -1,0 +1,49 @@
+Added Component: Designator=J1(HEAD 2P PH=2.54mm RA 12251102CNG0R138001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "Nathan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "02-MAY-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "JRCCONN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "12251102CNG0R138001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T690300167100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(HEAD 2P PH=2.54mm RA 12251102CNG0R138001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "Nathan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "02-MAY-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "JRCCONN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "12251102CNG0R138001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T690300167100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(HEAD 2P PH=2.54mm RA 12251102CNG0R138001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "Nathan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "02-MAY-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "JRCCONN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "12251102CNG0R138001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T690300167100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=-15V Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=+5V Pin=J2-2
+Added Pin To Net: NetName=+15V Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Member To Class: ClassName=+-15V Member=Component J1 T690300167100
+Added Member To Class: ClassName=+-15V Member=Component J2 T690300167100
+Added Member To Class: ClassName=+-15V Member=Component J3 T690300167100
+Added Room: Name=+-15V

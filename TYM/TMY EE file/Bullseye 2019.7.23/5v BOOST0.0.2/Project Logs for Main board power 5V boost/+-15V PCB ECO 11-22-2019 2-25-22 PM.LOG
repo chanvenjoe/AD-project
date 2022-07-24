@@ -1,0 +1,19 @@
+Added Component: Designator=TP1(Test Pin 0.77MM-KS-040 E08)
+Added Component: Designator=TP2(Test Pin 0.77MM-KS-040 E08)
+Added Component: Designator=TP3(Test Pin 0.77MM-KS-040 E08)
+Added Component: Designator=TP4(Test Pin 0.77MM-KS-040 E08)
+Added Component: Designator=TP5(Test Pin 0.77MM-KS-040 E08)
+Added Component: Designator=TP6(Test Pin 0.77MM-KS-040 E08)
+Added Pin To Net: NetName=NetC6_1 Pin=TP1-1
+Added Pin To Net: NetName=NetC1_1 Pin=TP2-1
+Added Pin To Net: NetName=-15V Pin=TP3-1
+Added Pin To Net: NetName=NetC15_1 Pin=TP4-1
+Added Pin To Net: NetName=NetC8_1 Pin=TP5-1
+Added Pin To Net: NetName=+15V Pin=TP6-1
+Added Member To Class: ClassName=+-15V Member=Component TP1 Test Pin 0.77MM-KS-040 E08
+Added Member To Class: ClassName=+-15V Member=Component TP2 Test Pin 0.77MM-KS-040 E08
+Added Member To Class: ClassName=+-15V Member=Component TP3 Test Pin 0.77MM-KS-040 E08
+Added Member To Class: ClassName=+-15V Member=Component TP4 Test Pin 0.77MM-KS-040 E08
+Added Member To Class: ClassName=+-15V Member=Component TP5 Test Pin 0.77MM-KS-040 E08
+Added Member To Class: ClassName=+-15V Member=Component TP6 Test Pin 0.77MM-KS-040 E08
+Added Room: Name=+-15V

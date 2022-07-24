@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=LED1-1
+Added Component: Designator=R3(0603-RW)
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "Tom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "14-Sep-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "WALSIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "WR06X2942FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T502294202399"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TOL"; Value = "+-0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "9.1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R3-1
+Added Net: Name=NetLED1_1
+Added Member To Class: ClassName=Sound&Light IC evaluation board Member=Component R3 T502294202399

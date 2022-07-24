@@ -1,0 +1,45 @@
+Change Component Footprint: Designator=J1 Old Footprint=CONN 2P PH=3.81mm RA_BLACK New Footprint=CONN 2P PH=1.5MM SMT 180 ZH-2AT-JK
+Change Component Footprint: Designator=J2 Old Footprint=CONN 2P PH=3.81mm RA_BLACK New Footprint=CONN 2P PH=1.5MM SMT 180 ZH-2AT-JK
+Change Component Footprint: Designator=J3 Old Footprint=CONN 2P PH=3.81mm RA_BLACK New Footprint=CONN 2P PH=1.5MM SMT 180 ZH-2AT-JK
+Change Component Comment : Designator=J1 Old Comment=T690300082800 New Comment=T690300108700
+Change Component Comment : Designator=J2 Old Comment=T690300082800 New Comment=T690300108700
+Change Component Comment : Designator=J3 Old Comment=T690300082800 New Comment=T690300108700
+Change component parameters: Designator = "J1"; Footprint = "CONN 2P PH=1.5MM SMT 180 ZH-2AT-JK"; UniqueID = "\PPTHPOCV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CREATE_NAME"; Value = "Nathan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREATE_TIME"; Value = "12-Sep-2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CURRENT"; Value = "1.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = "JINJIA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = "ZH-2AT-JK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = "T690300108700"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2"; Footprint = "CONN 2P PH=1.5MM SMT 180 ZH-2AT-JK"; UniqueID = "\ULIOBAOB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CREATE_NAME"; Value = "Nathan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREATE_TIME"; Value = "12-Sep-2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CURRENT"; Value = "1.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = "JINJIA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = "ZH-2AT-JK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = "T690300108700"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3"; Footprint = "CONN 2P PH=1.5MM SMT 180 ZH-2AT-JK"; UniqueID = "\AXDLAOHK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CREATE_NAME"; Value = "Nathan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREATE_TIME"; Value = "12-Sep-2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CURRENT"; Value = "1.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = "JINJIA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = "ZH-2AT-JK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = "T690300108700"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"

@@ -1,0 +1,90 @@
+Added Component: Designator=C3(CAPC0603-RW)
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "Nathan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "13-July-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "WALSIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = "CAPC0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T542021036508"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16v"; VariantName = "[No Variations]"
+Added Component: Designator=J7(CONN 2P PH=2.5mm HAA250A-2 WHITE)
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "Nathan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "24-Nov-2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "½ðÈð¿µ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "HAA250A-2 BLACK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T690300125300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED0603_BLUE)
+Add component (AddParameter): Name = "Color"; Value = "BLUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "Nathan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "28-Feb-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Type"; Value = "WALTER CLEAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "LITEON (¹âŒš)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "LTST-C193TBKT-5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T575011480204"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=NC1(0603-RW)
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "Tom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "14-Sep-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "WALSIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "WR06X2942FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T502294202399"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TOL"; Value = "+-0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "9.1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(0603-RW)
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "Tom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "14-Sep-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "WALSIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "WR06X2942FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T502294202399"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TOL"; Value = "+-0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "9.1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=NetC2_2 Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=NC1-1
+Added Pin To Net: NetName=VCC Pin=R2-2
+Change Net Color : Old Net Color=RGB(218, 36, 103) New Net Color=Default
+Added Pin To Net: NetName=SW Pin=C3-2
+Added Pin To Net: NetName=SW Pin=J4-7
+Added Pin To Net: NetName=SW Pin=J7-1
+Added Pin To Net: NetName=SW Pin=NC1-2
+Added Pin To Net: NetName=SW Pin=R2-1
+Added Pin To Net: NetName=SW Pin=U1-14
+Added Net: Name=SW
+Added Member To Class: ClassName=Sound&Light IC evaluation board Member=Component C3 T542021036508
+Added Member To Class: ClassName=Sound&Light IC evaluation board Member=Component J7 T690300125300
+Added Member To Class: ClassName=Sound&Light IC evaluation board Member=Component LED1 T575011480204
+Added Member To Class: ClassName=Sound&Light IC evaluation board Member=Component NC1 T502294202399
+Added Member To Class: ClassName=Sound&Light IC evaluation board Member=Component R2 T502294202399
