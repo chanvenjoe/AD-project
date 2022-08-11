@@ -1,0 +1,125 @@
+Removed Pin From Net: NetName=VCC Pin=J5-1
+Removed Pin From Net: NetName=GND Pin=J5-4
+Change Component Footprint: Designator=J5 Old Footprint=CONN 4P PH=2.5mm XHB-4A-KL New Footprint=HEAD 5P PH=2.54mm 180
+Change Component Comment : Designator=J5 Old Comment=T690300127400 New Comment=CCP254260-0105
+Change component parameters: Designator = "J5" ("J5"); Footprint = "CONN 4P PH=2.5mm XHB-4A-KL"; UniqueID = "\TYVFNPTJ" ("\TYVFNPTJ")
+Change component parameters (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "DIP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = "T690300023300"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Code"; Value = "10009989"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = "亿源电子有限公司"; VariantName = "[No Variations]"
+Added Component: Designator=J7(CONN 2P PH=2.5mm HAA250A-2 WHITE)
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "Nathan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "24-Nov-2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "金瑞康"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "HAA250A-2 BLACK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T690300125300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(0603-RW)
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "Tom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "14-Sep-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "WALSIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "WR06X2942FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T502294202399"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TOL"; Value = "+-0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "9.1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(0603-RW)
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "Tom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "14-Sep-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "WALSIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "WR06X2942FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T502294202399"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TOL"; Value = "+-0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "9.1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(0603-RW)
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "Tom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "14-Sep-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "WALSIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "WR06X2942FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T502294202399"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TOL"; Value = "+-0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "9.1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(0603-RW)
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "Tom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "14-Sep-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "WALSIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "WR06X2942FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T502294202399"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TOL"; Value = "+-0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "9.1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(0603-RW)
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "Tom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "14-Sep-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "WALSIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "WR06X2942FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T502294202399"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TOL"; Value = "+-0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "9.1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=NetJ3_6 Pin=J5-4
+Added Pin To Net: NetName=VCC Pin=J5-5
+Added Pin To Net: NetName=SW Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetJ3_10 Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetJ3_9 Pin=R5-2
+Added Pin To Net: NetName=NetJ4_5 Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=NetJ3_3 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetJ3_2 Pin=R8-2
+Change Net Name : Old Net Name=NetJ3_6 New Net Name=PC2
+Change Class Name : Old Net Name=Sound&Light IC evaluation board New Net Name=Sound&Light IC evaluation board ask
+Added Member To Class: ClassName=Sound&Light IC evaluation board ask Member=Component J7 T690300125300
+Added Member To Class: ClassName=Sound&Light IC evaluation board ask Member=Component R2 T502294202399
+Added Member To Class: ClassName=Sound&Light IC evaluation board ask Member=Component R4 T502294202399
+Added Member To Class: ClassName=Sound&Light IC evaluation board ask Member=Component R5 T502294202399
+Added Member To Class: ClassName=Sound&Light IC evaluation board ask Member=Component R6 T502294202399
+Added Member To Class: ClassName=Sound&Light IC evaluation board ask Member=Component R7 T502294202399
+Added Member To Class: ClassName=Sound&Light IC evaluation board ask Member=Component R8 T502294202399

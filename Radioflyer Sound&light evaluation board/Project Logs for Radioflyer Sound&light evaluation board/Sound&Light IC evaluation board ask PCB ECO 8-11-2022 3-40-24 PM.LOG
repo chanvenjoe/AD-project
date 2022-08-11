@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=J6-1
+Removed Pin From Net: NetName=GND Pin=J6-2
+Removed Pin From Net: NetName=SW Pin=J7-1
+Removed Pin From Net: NetName=GND Pin=J7-2
+Change Component Footprint: Designator=J6 Old Footprint=CONN 2P PH=2.5mm HAA250A-2 WHITE New Footprint=HOUSING 2P PH=2.54mm Jumper
+Change Component Footprint: Designator=J7 Old Footprint=CONN 2P PH=2.5mm HAA250A-2 WHITE New Footprint=HOUSING 2P PH=2.54mm Jumper
+Change Component Comment : Designator=J6 Old Comment=T690300125300 New Comment=CCH254020-0102
+Change Component Comment : Designator=J7 Old Comment=T690300125300 New Comment=CCH254020-0102
+Change component parameters: Designator = "J6" ("J6"); Footprint = "CONN 2P PH=2.5mm HAA250A-2 WHITE"; UniqueID = "\COUCNRXE" ("\COUCNRXE")
+Change component parameters (AddParameter): Name = "Current"; Value = "3A Jumper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "DIP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = "T690300000900"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Code"; Value = "10020373"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = "深圳市利民丰电子有限公司"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J7" ("J7"); Footprint = "CONN 2P PH=2.5mm HAA250A-2 WHITE"; UniqueID = "\TAPGITXP" ("\TAPGITXP")
+Change component parameters (AddParameter): Name = "Current"; Value = "3A Jumper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "DIP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = "T690300000900"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Code"; Value = "10020373"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = "深圳市利民丰电子有限公司"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=NetC2_2 Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J7-1
+Added Pin To Net: NetName=SW Pin=J7-2
