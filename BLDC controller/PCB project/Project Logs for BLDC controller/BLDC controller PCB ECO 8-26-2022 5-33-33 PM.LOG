@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=A11 Pin=R57-2
+Removed Pin From Net: NetName=A11 Pin=R58-2
+Added Component: Designator=Q?(SOT23-132-RW)
+Add component (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "LRC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "LMBT3906LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T582002540437"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = "10020356"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = "汉秥（香港）电子有限公司"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603)
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "Nathan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "23-July-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "WALSIN (華新)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "WR02X4421FAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/20W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T5024421083A9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TOL"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603)
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "Nathan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "23-July-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "WALSIN (華新)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "WR02X4421FAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/20W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T5024421083A9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TOL"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A11 Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=Q?-3
+Added Pin To Net: NetName=A11 Pin=R?-1
+Added Pin To Net: NetName=A11 Pin=R?-2
+Added Pin To Net: NetName=MCU_5V Pin=R?-2
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R57-2
+Added Pin To Net: NetName=NetQ?_1 Pin=R58-2
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-1
+Added Net: Name=NetQ?_1
+Added Member To Class: ClassName=Connector Member=Component Q? RCP003906-0002
+Added Member To Class: ClassName=Connector Member=Component R? T5024421083A9
+Added Member To Class: ClassName=Connector Member=Component R? T5024421083A9
