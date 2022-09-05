@@ -1,0 +1,2 @@
+1. 3.3V LDO part adj connection wrong
+2. Silk prints invissible
