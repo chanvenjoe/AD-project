@@ -2,3 +2,4 @@
 2. Silk prints invissible
 3. Conponent too close lead to hard wire roughting
 4. Power and ground pins should be Seperated
+5. Change to download connector to 6pin 2.54
