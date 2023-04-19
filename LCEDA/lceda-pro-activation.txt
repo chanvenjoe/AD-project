@@ -1,8 +1,0 @@
-{
-    "username": "kevin20220809",
-    "customer_code": "1369336A",
-    "email": "644203270@qq.com",
-    "phone": "",
-    "company": "",
-    "license": "dXNlcm5hbWV8Y3VzdG9tZXJfY29kZXxlbWFpbHxwaG9uZXxjb21wYW55,BS0Dw2znd4cW4Idqp0ZtMtbyRHk1dVqLBEQjbM+EWU4TtqzhtwGPsUGV7ubZnG6G8VvhKInW5YdZBc15aoXThy6J4h3fGmBieWWy2m2ztntLcLe0zbKwAulBh26Q\/lEFE+W0NbLdcuBWLKZhi\/10iG5gAr381pCXGS5ZvMhWxwU="
-}
