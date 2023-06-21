@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetR3_2 Pin=U1-1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q11
+Change Component Designator: OldDesignator=R? NewDesignator=R59
+Change Component Designator: OldDesignator=R? NewDesignator=R60
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ11_1
+Added Member To Class: ClassName=Connector Member=Component R59 T5024421083A9

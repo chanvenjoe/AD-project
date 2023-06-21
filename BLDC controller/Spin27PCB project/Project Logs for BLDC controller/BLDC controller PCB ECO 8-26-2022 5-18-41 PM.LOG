@@ -1,0 +1,34 @@
+Change Component Footprint: Designator=LED2 Old Footprint=3mm LED-R W/Holder_22.5mm New Footprint=3mm LED-R
+Change Component Footprint: Designator=LED3 Old Footprint=3mm LED-R W/Holder_22.5mm New Footprint=3mm LED-R
+Change Component Footprint: Designator=LED4 Old Footprint=3mm LED-R W/Holder_22.5mm New Footprint=3mm LED-R
+Change Component Footprint: Designator=LED5 Old Footprint=3mm LED-R W/Holder_22.5mm New Footprint=3mm LED-R
+Change component parameters: Designator = "R2" ("R2"); Footprint = "0603"; UniqueID = "\CDHCTFET" ("\CDHCTFET")
+Change component parameters (AddParameter): Name = "CREATE_NAME"; Value = "Nathan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREATE_TIME"; Value = "23-July-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = "WALSIN (ÈAÐÂ)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = "WR02X4421FAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PACKAGE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/20W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = "T5024421083A9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOL"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "30k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "0603"; UniqueID = "\NTWJHKED" ("\NTWJHKED")
+Change component parameters (AddParameter): Name = "CREATE_NAME"; Value = "Nathan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREATE_TIME"; Value = "23-July-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = "WALSIN (ÈAÐÂ)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = "WR02X4421FAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PACKAGE"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/20W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = "T5024421083A9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOL"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"

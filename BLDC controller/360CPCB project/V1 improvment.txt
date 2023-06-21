@@ -1,0 +1,15 @@
+1. 3.3V LDO part adj connection wrong
+2. Silk prints invissible
+3. Conponent too close lead to hard wire roughting
+4. Power and ground pins should be Seperated (motor wire for example)
+5. Change to download connector to 6pin 2.54
+6. the crosse zero detection circuit can it be bigger than 5v?  10.Maybe adding clamping to the BEMF detection circuit
+7. adding test point for MCU ports
+8. Adding charge IC(3s) to the schematic
+9. The bias for opa seems usless in this circuit
+10.Change Bat and Motor connector
+11.Diode for Wins' motor
+12.Mark GND   VCC to footprint
+13. The J-TAG GND work from 4th one
+14. Change the MCU to mm32spin27ps for better soldering
+15.PCB layout when putting compoennts, vcc and gnd should be seperated

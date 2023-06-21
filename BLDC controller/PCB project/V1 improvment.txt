@@ -1,7 +1,0 @@
-1. 3.3V LDO part adj connection wrong
-2. Silk prints invissible
-3. Conponent too close lead to hard wire roughting
-4. Power and ground pins should be Seperated (motor wire for example)
-5. Change to download connector to 6pin 2.54
-6. the crosse zero detection circuit can it be bigger than 5v?
-7.
