@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC Pin=J1-1
+Removed Pin From Net: NetName=VCC Pin=J2-1
+Removed Pin From Net: NetName=VCC Pin=J3-1
+Removed Pin From Net: NetName=VCC Pin=J4-1
+Change Net Color : Old Net Color=RGB(78, 32, 119) New Net Color=Default

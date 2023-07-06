@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=DGND Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=V_Bat Pin=R3-2
+Removed Pin From Net: NetName=5V Pin=R4-1
+Removed Pin From Net: NetName=NetR4_2 Pin=R4-2
+Removed Pin From Net: NetName=NetD1_2 Pin=R5-1
+Removed Pin From Net: NetName=V_Bat Pin=R5-2
+Change Component Footprint: Designator=R1 Old Footprint=0201 New Footprint=0603-RW
+Change Component Footprint: Designator=R3 Old Footprint=0201 New Footprint=0603-RW
+Change Component Footprint: Designator=R4 Old Footprint=0201 New Footprint=0603-RW
+Change Component Footprint: Designator=R5 Old Footprint=0201 New Footprint=0603-RW
+Change Component Comment : Designator=R1 Old Comment=T5024421083A9 New Comment=T502210202399
+Change Component Comment : Designator=R3 Old Comment=T5024421083A9 New Comment=T502210202399
+Change Component Comment : Designator=R4 Old Comment=T5024421083A9 New Comment=T502210202399
+Change Component Comment : Designator=R5 Old Comment=T5024421083A9 New Comment=T502210202399
+Added Component: Designator=P1(AC INLET 2P DB8-6S1)
+Add component (AddParameter): Name = "Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "金明浩"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "DB8-6S1 N-Polar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T690300011500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = "10010007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = "深圳市金明浩电子科技有限公司"; VariantName = "[No Variations]"
+Added Component: Designator=P2(Motor connector)
+Add component (AddParameter): Name = "Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "金明浩"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "DB8-6S1 N-Polar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T690300011500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = "10010007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = "深圳市金明浩电子科技有限公司"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=NetD4_1 Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=V_Bat Pin=P2-2
+Added Pin To Net: NetName=V_Bat Pin=P2-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=DGND Pin=R1-2
+Added Pin To Net: NetName=V_Bat Pin=R3-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-1
+Added Pin To Net: NetName=5V Pin=R4-2
+Added Pin To Net: NetName=V_Bat Pin=R5-1
+Added Pin To Net: NetName=NetD1_2 Pin=R5-2
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetR4_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Net: Name=NetR3_2
+Added Member To Class: ClassName=Connector Member=Component P1 CJP012009-0050
+Added Member To Class: ClassName=Connector Member=Component P2 CJP012009-0050

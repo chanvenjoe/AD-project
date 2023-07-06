@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=CHG_DET Pin=R59-1
+Removed Pin From Net: NetName=5V Pin=R59-2
+Removed Member From Class: ClassName=Connector Member=R59

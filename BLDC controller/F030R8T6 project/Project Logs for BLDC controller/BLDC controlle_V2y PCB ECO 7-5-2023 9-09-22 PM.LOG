@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=LIN1 Pin=SP+1-1
+Removed Pin From Net: NetName=HIN1 Pin=SP+2-1
+Removed Member From Class: ClassName=E-scooter Member=SP+1
+Removed Member From Class: ClassName=E-scooter Member=SP+2
+Change Net Color : Old Net Color=RGB(2, 126, 134) New Net Color=Default
+Change Net Color : Old Net Color=RGB(29, 169, 227) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 102, 153) New Net Color=Default
+Change Net Color : Old Net Color=RGB(1, 25, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 197, 26) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 255, 153) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(204, 0, 255) New Net Color=Default

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=R58-1
+Removed Pin From Net: NetName=NetQ11_1 Pin=R58-2
+Removed Member From Class: ClassName=Connector Member=R58

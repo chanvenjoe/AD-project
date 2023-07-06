@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=A10 Pin=J9-2
-Added Pin To Net: NetName=A9 Pin=J9-2
-Added Member To Class: ClassName=Connector Member=Component R60 T5024421083A9
