@@ -1,0 +1,38 @@
+PCB:
+1. 3.3/5V is close to GND, need to handel it in ruls
+2. Try to avoid in-pad via to reduce cost
+3. Wins is interfered, make it anti-clockwise
+4. ESL in source path cause negtive voltage
+5. The Wins PWM vias are too close to GND, easily causing the short circuit      +
+6. Wins driving circuit ground is not well roughted
+7. Reduce the MOS GS circuit loop for smaller ESC/ESR and shorter on/off time
+8. Don't pour the ground to all top layer, it can increase the risk of short circuit
+9. tear drop after finshing roughting
+10. HO1 roughting improvement to shorten the on time
+
+Schenmatic
+4. BT/ module TX/RX mixed up and the power should be 3.3V  ¡Ì
+5. Download connector should be 3.3V and work with ST LINK JLINK     6. TVCC should connect to PCB's 3,3V          7. Change the flash connector to 6pin
+8. MCU 5V is not valid, can connect to 3.3V      ¡Ì
+9. Vbat divider change to 6.2K and 43K    ¡Ì
+10. Adding resistor bwtween MCU and gate driver   ¡Á
+11.Wins gate driving, the resistor of GS should be directly connect to Gate, now it is not   ¡Ì
+12. Add USB port for USART and power supply and boost circuit to charge Battery£¨(think about the circuit when charging and powering the PCB)  X
+13. Need diode to MOS driver for Cb charging      X£¨ The closing is pretty fast )
+14.IR2106 need 10V as minimum VCC, change to new one(Using Transistor?)    EG2104 doesn't have UVP  X
+15. MPU and BT should use differenct IO port     ¡Ì
+16£¬ Need to avoid negative voltage from BEMF circuit by change the ground to a certaint voltage? ¡Ì      adding zenor diode
+17. Add a electronic power switch     X
+18. IR2106 can UVP is 9V, should change to another one  X
+19.Cb should be big enough for lower swithing frequency(10 uf for exmple)   ¡Ì
+20. Schematic RX TX should not be the same as BT module¡Ì         ¡Ì
+21. Voltage bat divider factor is too small(change to   43 6.2K) ¡Ì
+22. Add diode to the LDO to prevent reverse voltage       ¡Ì
+23. The voltage divider resistance too big will lead to unstable ADC samplling      X
+24.Add 100ohm resistor between MCU and gate driver      X
+25.Prevent the reverse voltage when using the STlink as power source  ¡Ì
+26. Add air pressure sensor to circuit         ¡Ì
+
+
+
+

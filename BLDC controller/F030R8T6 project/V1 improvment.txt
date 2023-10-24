@@ -6,7 +6,7 @@
 6. the crosse zero detection circuit can it be bigger than 5v?  10.Maybe adding clamping to the BEMF detection circuit
 7. adding test point for MCU ports
 8. Adding charge IC(3s) to the schematic
-9. The bias for opa seems usless in this circuit
+9. The bias for opa seems usless in this circuit  (It it turns out to be useful as a bias)
 10.Change Bat and Motor connector
 11.Diode for Wins' motor
 12.Mark GND   VCC to footprint
@@ -15,3 +15,16 @@
 15.PCB layout when putting compoennts, vcc and gnd should be seperated
 16. Open window for high power roughting
 17. Cb should be cloese to IC
+
+
+
+
+
+
+
+
+
+
+
+
+
