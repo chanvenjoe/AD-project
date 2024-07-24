@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=V_O Pin=D1-2
+Removed Pin From Net: NetName=V_bat Pin=D2-1
+Removed Pin From Net: NetName=V_O Pin=Q1-3
+Removed Pin From Net: NetName=V_O Pin=Q2-3
+Removed Member From Class: ClassName=LED strip driver Member=D2
+Added Pin To Net: NetName=V_O Pin=J6-2
+Added Pin To Net: NetName=V_bat Pin=Q1-2
+Added Pin To Net: NetName=VBUS Pin=Q1-3
+Added Pin To Net: NetName=V_bat Pin=Q2-2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=J6-1
+Added Pin To Net: NetName=NetD1_2 Pin=Q2-3
+Added Net: Name=NetD1_2

@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Added Component: Designator=F1(CLM1612P1412)
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "Tom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "14-Apr-2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "XIAMEN G&P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "YG212-12031"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T575009990164"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF1_3 Pin=F1-3
+Add Pin To Net: Unknown Pin: Pin U5-9
+Added Member To Class: ClassName=Overview Member=Component F1 KED500004-0010

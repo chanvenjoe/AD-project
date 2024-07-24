@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=Q2-3
+Added Pin To Net: NetName=VBUS Pin=Q2-3

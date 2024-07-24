@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: C:\Users\a0223952\Desktop\TIDA\PD TIDA-XXXXX\TIDA-010030\3Layout\Main Board\PCB.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=8.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_ThermalPadVias|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance_FiducialMark|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance_Poly|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance_Keepouts|Scope=Board|Minimum=0.00

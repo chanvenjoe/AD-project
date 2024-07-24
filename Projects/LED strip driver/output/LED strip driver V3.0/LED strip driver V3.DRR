@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: LED strip driver V3.PcbDoc   2/6/2024  12:00:55 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LED strip driver V3.TXT
+ASCII RectHoles File : LED strip driver V3-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             18        PTH        2.57inch (65.40mm)
+T2      20mil (0.5mm)                                             Round             2         PTH        0.08inch (2.00mm)
+T3      20mil (0.5mm)                                             Rectangle         4         PTH        1.36inch (34.49mm)
+T4      28mil (0.711mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T5      39mil (1mm)                                               Round             32        PTH        5.35inch (135.77mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              57
+
+Total Processing Time (hh:mm:ss) : 00:00:01

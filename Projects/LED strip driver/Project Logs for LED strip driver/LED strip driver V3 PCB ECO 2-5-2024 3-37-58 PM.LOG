@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetC7_2 Pin=SW1-1
+Removed Pin From Net: NetName=SpeakerP Pin=SW1-4
+Added Component: Designator=SW1(TACT SW TS-1102S-250H10.5)
+Add component (AddParameter): Name = "CREATE_NAME"; Value = "Nathan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREATE_TIME"; Value = "05-July-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Customer Specific"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIP&SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "JINGJU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part"; Value = "TS-1102S-250H10.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP"; Value = "T670200015100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "12V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC7_2 Pin=SW1-1
+Added Pin To Net: NetName=SpeakerP Pin=SW1-4

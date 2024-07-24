@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=SW1 Old Footprint=TACT SW B3FS-1010P New Footprint=TACT SW TS-1102S-250H10.5
+Added Member To Class: ClassName=LED strip driver Member=Component MIC1 MIC
+Added Member To Class: ClassName=LED strip driver Member=Component SW1 T670200015100

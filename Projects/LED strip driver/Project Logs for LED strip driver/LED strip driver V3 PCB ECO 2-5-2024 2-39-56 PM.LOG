@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=D2 Old Footprint=ESD0603 New Footprint=1206
+Added Pin To Net: NetName=V_O Pin=U3-8

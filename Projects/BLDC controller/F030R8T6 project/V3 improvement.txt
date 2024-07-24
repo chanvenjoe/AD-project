@@ -1,0 +1,15 @@
+PCB:
+1. The via should not be in the pad or you don't know whether it is connected(Like the CAP GND)
+2. C8 is not connected to the greater ground
+
+Schenmatic
+1. switch the TX/RX posisstion for better connection
+2. Preserve the SPI hardwar funtions
+3. Preserve the UART2 port with USB plug for both communication and Power supply
+4. Add a zenner diode to decrease voltage to 5V to keep LDO temperature down
+5. Using low voltage operation gate driver
+
+
+
+
+
