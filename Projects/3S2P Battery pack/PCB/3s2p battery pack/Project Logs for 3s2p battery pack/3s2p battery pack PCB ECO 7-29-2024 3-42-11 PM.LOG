@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=3.3V Pin=J5-4
+Added Pin To Net: NetName=3.3V Pin=J6-4
+Added Pin To Net: NetName=3.3V Pin=J7-5
+Added Member To Class: ClassName=U_Cell monitoring and balancing Member=Component TP2 CP1

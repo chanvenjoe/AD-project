@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=3.3V Pin=J13-1
+Removed Pin From Net: NetName=SWDIO Pin=J13-2
+Removed Pin From Net: NetName=SWCLK Pin=J13-3
+Removed Pin From Net: NetName=RST Pin=J13-5
+Removed Pin From Net: NetName=GND Pin=J13-6
+Change Component Footprint: Designator=J13 Old Footprint=CONN 6P PH=2.5mm RA XHB-6AW-KL New Footprint=CONN 6P PH=2.5mm B6B-XH-A
+Change Component Comment : Designator=J13 Old Comment=T690300121600 New Comment=CCN250000-0106
+Change component parameters: Designator = "J13" ("J13"); Footprint = "CONN 6P PH=2.5mm RA XHB-6AW-KL"; UniqueID = "\OGOLOBPO\CGVDLSUT" ("\OGOLOBPO\CGVDLSUT")
+Change component parameters (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIP&SMD"; Value = "DIP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAP"; Value = "T690300041300"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Code"; Value = "10009989"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor Name"; Value = "亿源电子有限公司"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J13-1
+Added Pin To Net: NetName=RST Pin=J13-2
+Added Pin To Net: NetName=SWCLK Pin=J13-4
+Added Pin To Net: NetName=SWDIO Pin=J13-5
+Added Pin To Net: NetName=3.3V Pin=J13-6

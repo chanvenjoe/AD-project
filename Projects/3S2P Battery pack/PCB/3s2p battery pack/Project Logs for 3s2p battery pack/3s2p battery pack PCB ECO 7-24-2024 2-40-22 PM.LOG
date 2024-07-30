@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=BAT+ Pin=F1-1
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=Q5-3
+Added Net: Name=NetF1_2

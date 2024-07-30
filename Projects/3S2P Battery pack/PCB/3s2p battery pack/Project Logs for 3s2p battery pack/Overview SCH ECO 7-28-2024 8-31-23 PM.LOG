@@ -1,0 +1,8 @@
+Change Net Color : Net Name= 3.3V Old Net Color=Default New Net Color=RGB(210, 131, 144)
+Change Net Color : Net Name= 5V Old Net Color=Default New Net Color=RGB(104, 47, 111)
+Change Net Color : Net Name= BAT+ Old Net Color=Default New Net Color=RGB(253, 241, 1)
+Change Net Color : Net Name= GND Old Net Color=Default New Net Color=RGB(31, 71, 105)
+Change Net Color : Net Name= NetF1_3 Old Net Color=Default New Net Color=RGB(231, 236, 115)
+Change Net Color : Net Name= PACK+ Old Net Color=Default New Net Color=Aqua
+Change Net Color : Net Name= PGND Old Net Color=Default New Net Color=RGB(86, 169, 199)
+Change Net Color : Net Name= VSSA Old Net Color=Default New Net Color=RGB(188, 57, 255)
